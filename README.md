@@ -30,7 +30,7 @@ A focused CRUD API for managing personal tasks, built for clarity and extensibil
 
 
 **Tech:** C#, ASP.NET Core, Entity Framework Core, SQL Server, AutoMapper, JWT, FluentValidation.  
-🔗 https://github.com/Oluwabukunmii/TodoListapp
+- [🔗 Todo List API](https://github.com/Oluwabukunmii/TodoListapp)
 
 ---
 
@@ -56,8 +56,7 @@ An API that catalogs scenic walking routes, regions, and difficulty levels — b
 - **OpenAPI / Swagger** docs that list both v1 and v2 endpoints.
 
 **Tech:** C#, ASP.NET Core, EF Core, AutoMapper, Validation, API Versioning, SQL Server, ILogger.  
-🔗 https://github.com/Oluwabukunmii/9JA-NGWALKS
-
+- [🔗 9JA NGWalks API](https://github.com/Oluwabukunmii/9JA-NGWALKS)
 ---
 
 ### 🏨 Hotel Listing API
@@ -84,7 +83,7 @@ A production-minded hotel & booking management API showcasing clean architecture
 
 
 **Tech:** C#, ASP.NET Core, EF Core (Code-First), SQL Server, AutoMapper, JWT.  
-🔗 https://github.com/Oluwabukunmii/HotelListingApi
+- [🔗 Hotel Listing API](https://github.com/Oluwabukunmii/HotelListingApi)
 
 ---
 
