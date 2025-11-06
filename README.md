@@ -2,7 +2,7 @@
 My portfolio site showcasing my C# and ASP.NET Core projects.
 # 👋 Hi, I'm Oluwabukunmi Ogunlana
 
-I'm a **Junior Backend Developer with strong Networks background** focused on building clean, maintainable, and well-tested APIs using **C#**, **ASP.NET Core**, and **SQL Server**.  
+I am a Backend Developer who blends her network perspective with backend engineering. I am all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure.
 
 ---
 
