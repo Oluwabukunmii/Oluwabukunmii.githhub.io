@@ -2,7 +2,7 @@
 My portfolio site showcasing my C# and ASP.NET Core projects.
 # 👋 Hi, I'm Oluwabukunmi Ogunlana
 
-I am a Backend Developer who blends her network perspective with backend engineering. I am all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure.
+I am a Backend Engineer who blends her network perspective with backend engineering. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure.
 
 ---
 
@@ -26,7 +26,8 @@ A focused CRUD API for managing personal tasks, built for clarity and extensibil
 **Quality & tooling**
 - Unit tests and integration tests around controllers and services.
 - Seed data for development, and migration scripts for reproducible DB state.
-- Swagger for  testing.
+- Swagger for testing and API documentation.
+
 
 **Tech:** C#, ASP.NET Core, Entity Framework Core, SQL Server, AutoMapper, JWT, FluentValidation.  
 🔗 https://github.com/Oluwabukunmii/TodoListapp
@@ -100,7 +101,8 @@ A production-minded hotel & booking management API showcasing clean architecture
 ---
 
 ## 📫 Get in Touch
-- 📧 **Email:** oluwabukunmiogunlana@gmail.com  
-- 💻 **GitHub:** https://github.com/Oluwabukunmii
+- 📧 **Email:** oluwabukunmiogunlana@gmail.com
+-  📞 **Phone:** 08161411641
+
 
 
