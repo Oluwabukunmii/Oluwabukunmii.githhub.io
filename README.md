@@ -100,7 +100,7 @@ A production-minded hotel & booking management API showcasing clean architecture
 ---
 
 ## 📫 Get in Touch
-- 📧 **Email:** oluwabukunmiogunlana@gmail.com
+- 📧 **Email:** oluwabukunmifayofade@gmail.com
 -  📞 **Phone:** 08161411641
 
 
