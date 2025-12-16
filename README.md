@@ -1,107 +1,70 @@
-# Oluwabukunmii.githhub.io
-My portfolio site showcasing my C# and ASP.NET Core projects.
 # 👋 Hi, I'm Oluwabukunmi Ogunlana
 
-I am a Backend Engineer who blends her network perspective with backend engineering. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure.
+**Backend Engineer | ASP.NET Core | Performance‑focused APIs**  
+
+I’m an intermediate Backend Engineer blending a networking perspective with backend development. I build **clean, efficient, and performant systems** while understanding how applications interact with networks and infrastructure. I am constantly learning and growing, committed to evolving into a more advanced backend engineer.  
+
+**Languages & Frameworks:** C#, ASP.NET Core, EF Core, .NET  
 
 ---
 
-## 🚀 Featured Projects
+## 🔗 Quick Project Links
+
+* 🏨 **[Hotel Listing API](https://github.com/Oluwabukunmii/HotelListingApi)**  
+* 🌍 **[9JA NGWalks API](https://github.com/Oluwabukunmii/9JA-NGWALKS)** 
+* ✅ **[Todo List API](https://github.com/Oluwabukunmii/TodoListapp)** 
 
 ---
 
-### ✅ Todo List API
-A focused CRUD API for managing personal tasks, built for clarity and extensibility.
+## 🚀 Featured Projects  
 
-**Core functionality**
-- Full **CRUD** for tasks/todos with user ownership.
-- **Authentication** using JWT tokens.
-- **Role-based authorization** (user vs admin).
-- **Pagination**, sorting and filtering endpoints for list endpoints.
-- **Input validation** using Data Annotations (and FluentValidation where applicable).
-- **DTOs** + AutoMapper for clear separation between domain models and public API.
-- **Centralized error handling** (global exception middleware that returns consistent error responses).
-- **Swagger / OpenAPI** documentation for easy exploration.
+### 🏨 Hotel Listing API
+**[🔗 GitHub](https://github.com/Oluwabukunmii/HotelListingApi)**  
 
-**Quality & tooling**
-- Unit tests and integration tests around controllers and services.
-- Seed data for development, and migration scripts for reproducible DB state.
-- Swagger for testing and API documentation.
+A production-ready hotel & booking API demonstrating **clean architecture, performance optimization, and secure access**.  
 
+**Highlights:**  
+* **Performance:** Caching, rate limiting, pagination/filtering/sorting, `AsNoTracking` queries, database indexing  
+* **Security:** JWT authentication, role-based authorization  
+* **Domain & Modeling:** Country → Hotel → Booking relationships, EF Core code-first migrations  
+* **Observability & Logging:** Structured logging with ILogger/Serilog  
+* **Clean Patterns:** Thin controllers, repository & service layers, dependency injection, consistent response pattern  
 
-**Tech:** C#, ASP.NET Core, Entity Framework Core, SQL Server, AutoMapper, JWT, FluentValidation.  
-- [🔗 Todo List API](https://github.com/Oluwabukunmii/TodoListapp)
+**Tech:** C#, ASP.NET Core, EF Core, SQL Server, AutoMapper, JWT, Logging  
 
 ---
 
 ### 🌍 9JA NGWalks API
-An API that catalogs scenic walking routes, regions, and difficulty levels — built with versioning, strong validation, and production-ready observability.
+**[🔗 GitHub](https://github.com/Oluwabukunmii/9JA-NGWALKS)**  
 
-**API design & stability**
-- **API Versioning** implemented (URL or header versioning) so v1, v2, etc. can coexist safely.  
+An API for scenic walking routes with **versioning, strong validation, and global error handling**.  
 
-**Modeling & validation**
-- **Rich domain model**: `Region`, `Walk`, `DifficultyLevel` with normalized relations.  
-- **Model validation** using Data Annotations and FluentValidation — all DTOs are validated before business logic runs (clean error messages returned).
-- Strong use of **DTOs** to prevent over-posting / leaking internal fields.
+**Highlights:**  
+* API versioning (v1, v2) for safe evolution  
+* Rich domain models with DTO-based input/output  
+* Validation using DataAnnotations & FluentValidation  
+* **Global exception handling middleware & structured logging**  
+* Swagger/OpenAPI documentation for all versions  
 
-**Observability & resilience**
-- **Structured logging** via `ILogger<T>` across controllers, services, and data layers (useful log scopes for traceability).
-- Error handling middleware returns standardized validation and error responses.
-
-**Developer ergonomics**
-- Automapper mapping profiles .
-- API includes **pagination**, filtering, and sorting for list endpoints.
-- **Role-based security** for admin operations .
-- **OpenAPI / Swagger** docs that list both v1 and v2 endpoints.
-
-**Tech:** C#, ASP.NET Core, EF Core, AutoMapper, Validation, API Versioning, SQL Server, ILogger.  
-- [🔗 9JA NGWalks API](https://github.com/Oluwabukunmii/9JA-NGWALKS)
----
-
-### 🏨 Hotel Listing API
-A production-minded hotel & booking management API showcasing clean architecture, EF Core relationships, and a consistent result pattern.
-
-**Domain & relationships**
-- Entities: `Country` ←→ `Hotel` ←→ `Booking`  
-  - `Country` has many `Hotels` (one-to-many).  
-  - `Hotel` has many `Bookings` (one-to-many).  
-  - Proper **navigation properties** (`Country.Hotels`, `Hotel.Country`, `Hotel.Bookings`, `Booking.Hotel`) to enable expressive LINQ queries and eager loading.
-- **EF Core** code-first migrations and fluent model configuration to express keys, constraints, and cascading behavior.
-
-**API patterns & consistency**
-- **Result Pattern** (e.g., `Result<T>` or `OperationResult`) used across services and controllers:
-  - Returns a consistent shape for success, not-found, validation errors, and conflicts.
-  - Separates domain errors from HTTP translation (controller maps `Result` → appropriate `IActionResult`).
-- **Repository / service** layers with dependency injection to keep controllers thin and testable.
-
-**Data access & performance**
-- Use of `Include(...)` / `ThenInclude(...)` for controlled eager loading when returning nested resources.
-- Paginated listing endpoints for hotels and bookings to avoid large payloads.
-- Query optimization (select only DTO fields when needed) to reduce load.
-
-
-
-**Tech:** C#, ASP.NET Core, EF Core (Code-First), SQL Server, AutoMapper, JWT.  
-- [🔗 Hotel Listing API](https://github.com/Oluwabukunmii/HotelListingApi)
+**Tech:** C#, ASP.NET Core, EF Core, AutoMapper, FluentValidation, SQL Server, Logging  
 
 ---
 
-## 🧰 Tech Stack & Practices
-- **Languages:** C#, SQL  
-- **Frameworks:** ASP.NET Core, Entity Framework Core  
-- **Design:** DTOs, Result Pattern, Dependency Injection, Clean Separation  
-- **Validation:** DataAnnotations, FluentValidation  
-- **Logging:** `ILogger<T>` with structured logs and scopes  
-- **Security:** JWT Authentication, Role-Based Authorization  
-- **Documentation:** Swagger / OpenAPI  
-- **Versioning:** API versioning (URL/header) for NGWalks to support evolution  
+### ✅ Todo List API
+**[🔗 GitHub](https://github.com/Oluwabukunmii/TodoListapp)**  
 
----
+A clean, focused CRUD API for managing tasks with **security, testing, and best practices**.  
+
+**Highlights:**  
+* CRUD operations with user ownership  
+* JWT authentication & role-based authorization  
+* Pagination, filtering, sorting  
+* DTOs & AutoMapper, centralized exception handling  
+* **Unit & integration testing** included  
+* Seed data and migration scripts  
+
+**Tech:** C#, ASP.NET Core, EF Core, SQL Server, AutoMapper, JWT, FluentValidation, Unit Testing  
 
 ## 📫 Get in Touch
-- 📧 **Email:** oluwabukunmifayofade@gmail.com
--  📞 **Phone:** 08161411641
-
-
-
+- 📧 *Email:* oluwabukunmifayofade@gmail.com
+-  📞 *Phone:* 08161411641
