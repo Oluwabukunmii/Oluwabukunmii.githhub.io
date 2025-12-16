@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Oluwabukunmi Ogunlana
 
-**Backend Engineer | ASP.NET Core | Performance‑focused APIs**  
+## Backend Engineer | ASP.NET Core | Performance‑focused APIs  
 
-I’m an intermediate Backend Engineer blending a networking perspective with backend development. I build **clean, efficient, and performant systems** while understanding how applications interact with networks and infrastructure. I am constantly learning and growing, committed to evolving into a more advanced backend engineer.  
+I am an intermediate Backend Engineer. I blend my network perspective with backend engineering. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure.I am constantly learning and growing, and I am committed to evolving into a more advanced backend engineer.
 
 **Languages & Frameworks:** C#, ASP.NET Core, EF Core, .NET  
 
@@ -21,7 +21,7 @@ I’m an intermediate Backend Engineer blending a networking perspective with ba
 ### 🏨 Hotel Listing API
 **[🔗 GitHub](https://github.com/Oluwabukunmii/HotelListingApi)**  
 
-A production-ready hotel & booking API demonstrating **clean architecture, performance optimization, and secure access**.  
+A production minded otel & booking API demonstrating **clean architecture, performance optimization, and secure access**.  
 
 **Highlights:**  
 * **Performance:** Caching, rate limiting, pagination/filtering/sorting, `AsNoTracking` queries, database indexing  
