@@ -1,70 +1,115 @@
-# 👋 Hi, I'm Oluwabukunmi Ogunlana
+# 👋 Hi, I'm Oluwabukunmi Ogunlana  
+**Backend Engineer | ASP.NET Core | Performance-focused APIs**
 
-## Backend Engineer | ASP.NET Core | Performance‑focused APIs  
+I am an intermediate Backend Engineer with a background in networking.I blend my network perspective with backend development. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure. I am constantly learning and growing, and I am committed to evolving into a more advanced backend engineer.  
 
-I am an intermediate Backend Engineer. I blend my network perspective with backend engineering. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure.I am constantly learning and growing, and I am committed to evolving into a more advanced backend engineer.
+---
 
-**Languages & Frameworks:** C#, ASP.NET Core, EF Core, .NET  
+## 🛠️ Stacks & Tools
+
+**Languages & Frameworks**  
+- C#, ASP.NET Core, .NET, Entity Framework Core  
+
+**Databases**  
+- SQL Server  
+
+**Cloud**  
+- Microsoft Azure (App Services, fundamentals)  
+
+**Architecture & Patterns**  
+- Clean Architecture  
+- Repository & Service Patterns  
+- Dependency Injection  
+- Result Pattern  
+
+**Security**  
+- JWT Authentication  
+- Role-based Authorization  
+
+**Testing**  
+- xUnit / NUnit  
+- Unit & Integration Testing  
+
+**Logging & Observability**  
+- ILogger  
+- Serilog  
+- Structured Logging  
+
+**Tooling & Utilities**  
+- AutoMapper  
+- FluentValidation  
+- Swagger / OpenAPI  
+- EF Core Migrations  
 
 ---
 
 ## 🔗 Quick Project Links
-
-* 🏨 **[Hotel Listing API](https://github.com/Oluwabukunmii/HotelListingApi)**  
-* 🌍 **[9JA NGWalks API](https://github.com/Oluwabukunmii/9JA-NGWALKS)** 
-* ✅ **[Todo List API](https://github.com/Oluwabukunmii/TodoListapp)** 
-
----
-
-## 🚀 Featured Projects  
-
-### 🏨 Hotel Listing API
-**[🔗 GitHub](https://github.com/Oluwabukunmii/HotelListingApi)**  
-
-A production minded otel & booking API demonstrating **clean architecture, performance optimization, and secure access**.  
-
-**Highlights:**  
-* **Performance:** Caching, rate limiting, pagination/filtering/sorting, `AsNoTracking` queries, database indexing  
-* **Security:** JWT authentication, role-based authorization  
-* **Domain & Modeling:** Country → Hotel → Booking relationships, EF Core code-first migrations  
-* **Observability & Logging:** Structured logging with ILogger/Serilog  
-* **Clean Patterns:** Thin controllers, repository & service layers, dependency injection, consistent response pattern  
-
-**Tech:** C#, ASP.NET Core, EF Core, SQL Server, AutoMapper, JWT, Logging  
+- 🏨 [Hotel Listing API](#)  
+- 🌍 [9JA NGWalks API](#)  
+- ✅ [Todo List API](#)  
 
 ---
 
-### 🌍 9JA NGWalks API
-**[🔗 GitHub](https://github.com/Oluwabukunmii/9JA-NGWALKS)**  
-
-An API for scenic walking routes with **versioning, strong validation, and global error handling**.  
-
-**Highlights:**  
-* API versioning (v1, v2) for safe evolution  
-* Rich domain models with DTO-based input/output  
-* Validation using DataAnnotations & FluentValidation  
-* **Global exception handling middleware & structured logging**  
-* Swagger/OpenAPI documentation for all versions  
-
-**Tech:** C#, ASP.NET Core, EF Core, AutoMapper, FluentValidation, SQL Server, Logging  
+## 📚 What I’m Learning
+- Advanced ASP.NET Core patterns  
+- Writing highly testable and maintainable APIs  
+- Performance tuning and optimization  
+- Cloud deployment and backend scalability on Azure  
 
 ---
 
-### ✅ Todo List API
-**[🔗 GitHub](https://github.com/Oluwabukunmii/TodoListapp)**  
+## 📌 What I Care About
+- Writing clean, maintainable backend code  
+- Performance optimization and scalability  
+- Proper validation, logging, and error handling  
+- Learning and applying best practices in backend engineering  
 
-A clean, focused CRUD API for managing tasks with **security, testing, and best practices**.  
+---
 
-**Highlights:**  
-* CRUD operations with user ownership  
-* JWT authentication & role-based authorization  
-* Pagination, filtering, sorting  
-* DTOs & AutoMapper, centralized exception handling  
-* **Unit & integration testing** included  
-* Seed data and migration scripts  
+## 🚀 Featured Projects
 
-**Tech:** C#, ASP.NET Core, EF Core, SQL Server, AutoMapper, JWT, FluentValidation, Unit Testing  
+### 🏨 Hotel Listing API  
+[🔗 Hotel Listing API](#)  
 
-## 📫 Get in Touch
-- 📧 *Email:* oluwabukunmifayofade@gmail.com
--  📞 *Phone:* 08161411641
+**Key highlights**  
+- Caching and rate limiting for improved performance and API protection  
+- Pagination, filtering, and sorting for large datasets  
+- JWT authentication and role-based authorization  
+- EF Core with optimized queries (AsNoTracking) and database indexing  
+- Structured logging and clean error handling  
+- Clean architecture with repository and service layers  
+
+---
+
+### 🌍 9JA NGWalks API  
+[🔗 9JA NGWalks API](#)  
+
+An API for managing scenic walking routes, regions, and difficulty levels with versioning and strong validation.  
+
+**Key highlights**  
+- API versioning (v1, v2) for safe evolution  
+- DTO-based request/response models  
+- FluentValidation and Data Annotations  
+- Global exception handling middleware  
+- Structured logging and Swagger documentation  
+
+---
+
+### ✅ Todo List API  
+[🔗 Todo List API](#)  
+
+A clean CRUD API for managing personal tasks, designed with security and testing in mind.  
+
+**Key highlights**  
+- CRUD operations with user ownership  
+- JWT authentication and role-based access  
+- Pagination, filtering, and sorting  
+- Global exception handling  
+- Unit and integration testing  
+
+---
+
+## 📫 Let’s connect:
+- GitHub: [Oluwabukunmii](https://github.com/Oluwabukunmii)  
+- Email: Oluwabukunmifayofade@gmail.com  
+- Phone: 08161411641  
