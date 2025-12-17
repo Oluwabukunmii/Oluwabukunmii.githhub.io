@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Oluwabukunmi Ogunlana  
 
-📧 Email: Oluwabukunmifayofade@gmail.com
-🌐 GitHub: Oluwabukunmii
+📧 Email: [Oluwabukunmifayofade@gmail.com](mailto:Oluwabukunmifayofade@gmail.com)  
+🌐 GitHub: [Oluwabukunmii](https://github.com/Oluwabukunmii)  
 
 **Backend Engineer | ASP.NET Core | Performance-focused APIs**
 
