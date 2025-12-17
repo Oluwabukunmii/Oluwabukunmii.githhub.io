@@ -1,4 +1,8 @@
 # 👋 Hi, I'm Oluwabukunmi Ogunlana  
+
+📧 Email: Oluwabukunmifayofade@gmail.com
+🌐 GitHub: Oluwabukunmii
+
 **Backend Engineer | ASP.NET Core | Performance-focused APIs**
 
 I am an intermediate Backend Engineer with a background in networking.I blend my network perspective with backend development. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure. I am constantly learning and growing, and I am committed to evolving into a more advanced backend engineer.  
@@ -41,7 +45,9 @@ I am an intermediate Backend Engineer with a background in networking.I blend my
 - AutoMapper  
 - FluentValidation  
 - Swagger / OpenAPI  
-- EF Core Migrations  
+- EF Core Migrations
+- Git, GitHub
+
 
 ---
 
@@ -52,19 +58,21 @@ I am an intermediate Backend Engineer with a background in networking.I blend my
 
 ---
 
-## 📚 What I’m Learning
-- Advanced ASP.NET Core patterns  
-- Writing highly testable and maintainable APIs  
-- Performance tuning and optimization  
-- Cloud deployment and backend scalability on Azure  
+📚 What I’m Learning
+- Advanced ASP.NET Core patterns
+- Writing highly testable and maintainable APIs
+- Performance tuning and optimization
+- Cloud deployment and backend scalability on Azure
+- Building deeper understanding of backend architecture and system design
 
----
+📌 What I Care About
+- Writing clean, maintainable backend code
+- Performance optimization and scalability
+- Proper validation, logging, and error handling
+- Learning and applying best practices in backend engineering
 
-## 📌 What I Care About
-- Writing clean, maintainable backend code  
-- Performance optimization and scalability  
-- Proper validation, logging, and error handling  
-- Learning and applying best practices in backend engineering  
+📌 Where I’m Going
+- Growing into a well-rounded backend engineer focused on building scalable and secure systems
 
 ---
 
@@ -109,9 +117,3 @@ A clean CRUD API for managing personal tasks, designed with security and testing
 - Global exception handling  
 - Unit and integration testing  
 
----
-
-## 📫 Let’s connect:
-- GitHub: [Oluwabukunmii](https://github.com/Oluwabukunmii)  
-- Email: Oluwabukunmifayofade@gmail.com  
-- Phone: 08161411641  
