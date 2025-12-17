@@ -17,10 +17,12 @@ I am an intermediate Backend Engineer with a background in networking.I blend my
 - Microsoft Azure (App Services, fundamentals)  
 
 **Architecture & Patterns**  
-- Clean Architecture  
-- Repository & Service Patterns  
+- RESTful API design
+- Clean Architecture
 - Dependency Injection  
-- Result Pattern  
+- Result Pattern
+- Separation of concerns and domain-driven design fundamentals
+
 
 **Security**  
 - JWT Authentication  
