@@ -2,7 +2,7 @@
 
 📧 Email: Oluwabukunmifayofade@gmail.com
 
-🌐 GitHub: Oluwabukunmii
+🌐 GitHub: [Oluwabukunmii](https://github.com/Oluwabukunmii)
 
 Backend Engineer | ASP.NET Core | Performance-focused APIs
 
@@ -19,18 +19,17 @@ Testing: xUnit / NUnit, Unit & Integration Testing
 Logging & Observability: ILogger, Serilog, Structured Logging
 Tooling & Utilities: AutoMapper, FluentValidation, Swagger/OpenAPI, EF Core Migrations, Git / GitHub
 
-🔗 Quick Project Links
-
-🏨 Hotel Listing API
-
-🌍 9JA NGWalks API
-
-💻 AuthService GitHub
+## 🔗 Quick Project Links
+- 🏨 [Hotel Listing API](https://github.com/Oluwabukunmii/HotelListingAPI)
+- 🌍 [9JA NGWalks API](https://github.com/Oluwabukunmii/NGWalksAPI)
+- 💻 [AuthService GitHub](https://github.com/Oluwabukunmii/AuthService)
 
 🚀 Featured Projects
+
+
 🏨 Hotel Listing API
 
-🔗 GitHub Link
+[🔗 View on GitHub](https://github.com/Oluwabukunmii/HotelListingAPI)
 
 An API for managing hotel listings with performance, security, and maintainability in mind.
 
@@ -50,7 +49,7 @@ Clean architecture with repository and service layers
 
 🌍 9JA NGWalks API
 
-🔗 GitHub Link
+[🔗 View on GitHub](https://github.com/Oluwabukunmii/NGWalksAPI)
 
 An API for managing scenic walking routes, regions, and difficulty levels with versioning and strong validation.
 
@@ -68,7 +67,7 @@ Structured logging and Swagger documentation
 
 💻 Authentication & Identity Service
 
-🔗 GitHub Link
+[🔗 View on GitHub](https://github.com/Oluwabukunmii/AuthService)
 
 A centralized authentication API handling user registration, login, and role-based access control for microservice architectures.
 
