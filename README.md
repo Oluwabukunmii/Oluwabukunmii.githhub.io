@@ -1,119 +1,95 @@
-# 👋 Hi, I'm Oluwabukunmi Ogunlana  
+👋 Hi, I'm Oluwabukunmi Ogunlana
 
-📧 Email: [Oluwabukunmifayofade@gmail.com](mailto:Oluwabukunmifayofade@gmail.com)  
-🌐 GitHub: [Oluwabukunmii](https://github.com/Oluwabukunmii)  
+📧 Email: Oluwabukunmifayofade@gmail.com
 
-## Backend Engineer | ASP.NET Core | Performance-focused APIs
+🌐 GitHub: Oluwabukunmii
 
-I am an intermediate Backend Engineer with a background in networking.I blend my network perspective with backend development. I am focused and all for building systems that are clean, efficient, and optimized for performance, with a deep appreciation for how applications interact with networks and infrastructure. I am constantly learning and growing, and I am committed to evolving into a more advanced backend engineer.  
+Backend Engineer | ASP.NET Core | Performance-focused APIs
 
----
+I’m an intermediate Backend Engineer with a background in networking, which I combine with backend development. I build clean, efficient, and optimized systems, with a strong understanding of how applications interact with networks and infrastructure. I’m constantly learning and evolving to deliver scalable and maintainable backend solutions.
 
-## 🛠️ Stacks & Tools
+🛠️ Tech Stack & Tools
 
-**Languages & Frameworks**  
-- C#, ASP.NET Core, .NET, Entity Framework Core  
+Languages & Frameworks: C#, ASP.NET Core, .NET, Entity Framework Core
+Databases: SQL Server
+Cloud: Microsoft Azure (App Services, fundamentals)
+Architecture & Patterns: RESTful API design, Clean Architecture, Layered Architecture, Dependency Injection, Result Pattern, Separation of Concerns
+Security: JWT Authentication, Role-based Authorization
+Testing: xUnit / NUnit, Unit & Integration Testing
+Logging & Observability: ILogger, Serilog, Structured Logging
+Tooling & Utilities: AutoMapper, FluentValidation, Swagger/OpenAPI, EF Core Migrations, Git / GitHub
 
-**Databases**  
-- SQL Server  
+🔗 Quick Project Links
 
-**Cloud**  
-- Microsoft Azure (App Services, fundamentals)  
+🏨 Hotel Listing API
 
-**Architecture & Patterns**  
-- RESTful API design
-- Clean Architecture
-- Dependency Injection  
-- Result Pattern
-- Separation of concerns and domain-driven design fundamentals
+🌍 9JA NGWalks API
 
+💻 AuthService GitHub
 
-**Security**  
-- JWT Authentication  
-- Role-based Authorization  
+🚀 Featured Projects
+🏨 Hotel Listing API
 
-**Testing**  
-- xUnit / NUnit  
-- Unit & Integration Testing  
+🔗 GitHub Link
 
-**Logging & Observability**  
-- ILogger  
-- Serilog  
-- Structured Logging  
+An API for managing hotel listings with performance, security, and maintainability in mind.
 
-**Tooling & Utilities**  
-- AutoMapper  
-- FluentValidation  
-- Swagger / OpenAPI  
-- EF Core Migrations
-- Git, GitHub
+Key highlights:
 
+Caching and rate limiting for better performance
 
----
+Pagination, filtering, and sorting for large datasets
 
-## 🔗 Quick Project Links
-- 🏨 [Hotel Listing API](#)  
-- 🌍 [9JA NGWalks API](#)  
-- ✅ [Todo List API](#)  
+JWT authentication and role-based authorization
 
----
+EF Core with optimized queries (AsNoTracking) and database indexing
 
-📚 What I’m Learning
-- Advanced ASP.NET Core patterns
-- Writing highly testable and maintainable APIs
-- Performance tuning and optimization
-- Cloud deployment and backend scalability on Azure
-- Building deeper understanding of backend architecture and system design
+Structured logging and clean error handling
 
-📌 What I Care About
-- Writing clean, maintainable backend code
-- Performance optimization and scalability
-- Proper validation, logging, and error handling
-- Learning and applying best practices in backend engineering
+Clean architecture with repository and service layers
 
-📌 Where I’m Going
-- Growing into a well-rounded backend engineer focused on building scalable and secure systems
+🌍 9JA NGWalks API
 
----
+🔗 GitHub Link
 
-## 🚀 Featured Projects
+An API for managing scenic walking routes, regions, and difficulty levels with versioning and strong validation.
 
-### 🏨 Hotel Listing API  
-[🔗 Hotel Listing API](#)  
+Key highlights:
 
-**Key highlights**  
-- Caching and rate limiting for improved performance and API protection  
-- Pagination, filtering, and sorting for large datasets  
-- JWT authentication and role-based authorization  
-- EF Core with optimized queries (AsNoTracking) and database indexing  
-- Structured logging and clean error handling  
-- Clean architecture with repository and service layers  
+API versioning (v1, v2) for safe evolution
 
----
+DTO-based request/response models
 
-### 🌍 9JA NGWalks API  
-[🔗 9JA NGWalks API](#)  
+FluentValidation and Data Annotations
 
-An API for managing scenic walking routes, regions, and difficulty levels with versioning and strong validation.  
+Global exception handling middleware
 
-**Key highlights**  
-- API versioning (v1, v2) for safe evolution  
-- DTO-based request/response models  
-- FluentValidation and Data Annotations  
-- Global exception handling middleware  
-- Structured logging and Swagger documentation  
+Structured logging and Swagger documentation
 
----
+💻 Authentication & Identity Service
 
-### ✅ Todo List API  
-[🔗 Todo List API](#)  
+🔗 GitHub Link
 
-A clean CRUD API for managing personal tasks, designed with security and testing in mind.  
+A centralized authentication API handling user registration, login, and role-based access control for microservice architectures.
 
-**Key highlights**  
-- CRUD operations with user ownership  
-- JWT authentication and role-based access  
-- Pagination, filtering, and sorting  
-- Global exception handling  
-- Unit and integration testing  
+Key highlights:
 
+JWT-based authentication with access and refresh token flows
+
+Role-based authorization for Admin and User roles
+
+Secure password hashing and credential validation
+
+Clean Architecture implementation for maintainable code
+
+Token lifecycle management, including logout invalidation and refresh token support
+
+📚 Learning & Growth
+
+Advanced ASP.NET Core patterns
+
+Writing highly testable and maintainable APIs
+
+Performance tuning and optimization
+
+Cloud deployment and backend scalability on Azure
